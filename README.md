@@ -88,7 +88,7 @@ done
 ## Project structure
 
 ```
-data-analysis-mutual-fund-fees/
+hidden-mutual-fund-fees/
 ├── data/
 │   ├── raw/                 scheme_list.json (committed) + nav/ cache (regenerated)
 │   └── processed/           fund_returns.csv  <- the analysis-ready dataset
