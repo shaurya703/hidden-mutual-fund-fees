@@ -1,0 +1,19 @@
+# Core data stack
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Stats & modeling
+scipy==1.13.1
+scikit-learn==1.5.0
+statsmodels==0.14.2
+
+# HTTP (data download)
+requests==2.32.3
+
+# Notebooks
+jupyter==1.0.0
+ipykernel==6.29.5
