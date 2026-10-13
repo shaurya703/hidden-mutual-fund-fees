@@ -1,5 +1,7 @@
 # The Hidden Cost of "Regular" Mutual Fund Plans in India
 
+[![CI](https://github.com/shaurya703/hidden-mutual-fund-fees/actions/workflows/ci.yml/badge.svg)](https://github.com/shaurya703/hidden-mutual-fund-fees/actions/workflows/ci.yml)
+
 > Most Indians who invest in mutual funds are quietly sitting in the *costlier*
 > version of the exact same fund — and losing lakhs to crores over a lifetime for
 > nothing in return. This project measures that cost from official data, fund by fund.
